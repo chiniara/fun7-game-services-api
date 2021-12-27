@@ -17,6 +17,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 ## What could be worked on in the future with more time
 
+- Auth in Admin API
 - Dockerfile to run locally
 - Adding native tests for Quarkus Native
 - Better test naming
